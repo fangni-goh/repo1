@@ -2,3 +2,4 @@ This is a plain file.
 This is the second line.
 I added a new line.
 Let's continue from here.
+Maybe we should take a break.
